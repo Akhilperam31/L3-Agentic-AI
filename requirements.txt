@@ -1,0 +1,9 @@
+crewai
+ipykernel
+langchain_community
+ddgs
+reportlab
+pandas
+docx2txt
+pypdf
+langchain

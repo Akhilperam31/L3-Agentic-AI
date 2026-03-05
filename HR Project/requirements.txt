@@ -1,0 +1,15 @@
+crewai
+crewai_tools
+langchain
+langchain_openai
+pypdf
+docx2txt
+reportlab
+python-dotenv
+python-docx
+fastapi
+uvicorn
+python-multipart
+sqlalchemy
+jinja2
+pandas
